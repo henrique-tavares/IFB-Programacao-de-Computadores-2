@@ -12,7 +12,7 @@
 
 ## Projetos
 
-- [oficina(exame-de-proficiência)]()
+- [oficina(exame-de-proficiência)](https://github.com/henrique-tavares/IFB-Programacao-de-Computadores-2/tree/main/oficina)
 
 ## Ementa
 
